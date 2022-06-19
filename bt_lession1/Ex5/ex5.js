@@ -1,5 +1,5 @@
 /** @format */
-
+// addition
 function addition() {
   a = Number(document.caculator.firstNumber.value);
   b = Number(document.caculator.secondNumber.value);

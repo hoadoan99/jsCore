@@ -1,6 +1,6 @@
 /** @format */
 
-// Tìm số lớn nhất trong hai số
+// Tìm số lớn nhất trong hai số nè
 // + Data 1: a = 12, b = -9
 // + Data 2: a = 6, b = 6
 // + Data 3: a = -189, b = -987

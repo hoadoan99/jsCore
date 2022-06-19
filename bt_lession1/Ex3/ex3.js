@@ -1,7 +1,7 @@
 /** @format */
 
 // + Data 1: Dolphins có điểm là 96, 108 và89. Koalas có điểm là  88, 91 và 110
-// Tính ĐTB cả 2 đội
+// Tính ĐTB của cả 2 đội
 
 function champion() {
   const teamA = {
