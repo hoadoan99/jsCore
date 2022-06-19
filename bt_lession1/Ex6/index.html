@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classification Results</title>
+</head>
+
+<body>
+    <fieldset style="width:500px">
+        <legend><b>Student Input :</b></legend>
+        Name:<input type="text" id="name">
+        <br /><br />
+        <table border="1">
+            <tr>
+                <td>Score</td>
+                <td><input type="text" id="score"></td>
+            </tr>
+        </table><br /><br />
+        <input type="button" value="Get Result" onclick="getConduct();">
+    </fieldset>
+
+    <h2>RESULT</h2>
+
+    <table border="1">
+        <tr>
+            <td>Name</td>
+            <td><input type="text" id="StudentName" readonly></td>
+        </tr>
+        <tr>
+            <td>Ranked</td>
+            <td><input type="text" id="studentScore" readonly></td>
+        </tr>
+    </table>
+
+    <script src="ex6.js" type="text/javascript"></script>
+</body>
+
+</html>
