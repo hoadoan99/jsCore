@@ -5,3 +5,5 @@
 // hoisting
 // if else
 // operator + - x / %
+// toString
+// = == ===
