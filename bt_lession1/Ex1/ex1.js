@@ -2,7 +2,7 @@
 
 // Cho công thức tính BMI = mass / height ** 2 = mass / (height * height) với mass là khối lượng, height là cân nặng
 
-// + Data 1: Marks nặng 78 kg và cao 1.69 m. John nặng 92 kg và cao 1.95 m
+// + Data 1: Marks nặng 78 kg và cao 1.69 m. John nặng 92 kg và cao 1.95m
 
 let markMass = 78;
 let markHeight = 1.69;

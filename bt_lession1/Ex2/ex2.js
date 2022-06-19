@@ -1,6 +1,6 @@
 /** @format */
 
-// Giải phương trình bậc 1:
+// Giải phương trình bậc 1 :
 // + Data 1: -2x – 9 = -3
 
 function data1(a, b, c) {
