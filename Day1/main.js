@@ -1,4 +1,7 @@
 /** @format */
-let sum = 1 + "a";
-
-console.log(typeof sum);
+// varibles
+// var let const
+// number , string , object , null, undefine , symbols , BigInt
+// hoisting
+// if else
+// operator + - x / %
