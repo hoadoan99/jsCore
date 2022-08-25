@@ -1,6 +1,6 @@
 /** @format */
 
-// Tìm xếp loại điểm của học sinh
+// Tìm xếp loại điểm của học sinhh
 function getConduct() {
   var ranked = "";
   //   score
